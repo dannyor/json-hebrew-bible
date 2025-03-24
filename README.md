@@ -2,6 +2,10 @@
 A convenient JSON bible
 Contains both simple text and text with diacritics (Niqud and Teamim).
 
-The JSON file is stuctured by books, each book with chapters and each chapter with verses.
+The JSON file is stuctured by:
+*books
+*chapters
+*verses (simple text)
+*verses (with diacritics)
 
-Again the verses appear seperately both as simple Hebrew text and text with diacritics.
+![preview](./json-bible-preview.png)
