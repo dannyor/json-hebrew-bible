@@ -1,5 +1,6 @@
 # json-hebrew-bible
-A convenient JSON bible
+A convenient JSON bible.
+(Generated from resources produced by [UXLC](https://tanach.us/))
 
 Contains both simple text and text with diacritics (Niqud and Teamim).
 
